@@ -20,7 +20,7 @@ I am Kushal Koshti, pursuing MSc. Cognitive Systems at University of Potsdam wit
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="65" height="65"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/>
-      <img src="https://commons.wikimedia.org/wiki/File:LaTeX_logo.svg" alt="latex" width="55" height"55"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="latex" width="55" height"55"/>
       <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="55" height="55"/>
       <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/vs-studio.svg" alt="github" width="55" height="55"/>
