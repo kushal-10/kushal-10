@@ -8,4 +8,4 @@ I am Kushal Koshti, pursuing MSc. Cognitive Systems at University of Potsdam wit
 ⚡ If I'm not on my laptop working on some code, you'll find me practicing 'popular' solos, playing chess or watching a Barca match.
 
 #### My Github Stats
-![[Kushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kushal-10)](https://github.com/kushal-10/github-readme-stats)
+![Kushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kushal-10&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
