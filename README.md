@@ -6,8 +6,6 @@ I am Kushal Koshti, pursuing MSc. Cognitive Systems at University of Potsdam wit
 
 🌱 I'm in my 3rd semester taking following courses - Bayesian Statistical Analysis and Inelligent Data Analysis and ML-II. Previously I took courses like ANLP, Language Vision and Interaction and Models that Explain themselves
 
-👯 I’m looking to collaborate and learn about any topic focused on using LLMs as agents
-
 ⚡ If I'm not on my laptop working on some code, you'll find me practicing 'popular' solos, playing chess, or watching a Barca match.
 
 📄 My academic papers - [arxiv_lang_vis_interaction](https://arxiv.org/abs/2311.07150), [Explainability](https://drive.google.com/file/d/11aXmPxYSlWBDOn9lregowmijHu_POh0d/view?usp=sharing)
