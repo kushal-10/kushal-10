@@ -15,12 +15,12 @@ I am Kushal Koshti, pursuing MSc. Cognitive Systems at University of Potsdam wit
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kushal-10&theme=nightowl&)](https://git.io/streak-stats)
 
+Some of my academic papers - [arxiv_lang_vis_interaction](https://arxiv.org/abs/2311.07150), [Explainability](https://drive.google.com/file/d/11aXmPxYSlWBDOn9lregowmijHu_POh0d/view?usp=sharing)
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="65" height="65"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="latex" width="55" height"55"/>
       <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="55" height="55"/>
       <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/vs-studio.svg" alt="github" width="55" height="55"/>
