@@ -10,12 +10,13 @@ I am Kushal Koshti, pursuing MSc. Cognitive Systems at University of Potsdam wit
 
 ⚡ If I'm not on my laptop working on some code, you'll find me practicing 'popular' solos, playing chess, or watching a Barca match.
 
+📄 My academic papers - [arxiv_lang_vis_interaction](https://arxiv.org/abs/2311.07150), [Explainability](https://drive.google.com/file/d/11aXmPxYSlWBDOn9lregowmijHu_POh0d/view?usp=sharing)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kushal-10&layout=compact&title_color=c792ea&icon_color=ffeb95&text_color=7fdbca&bg_color=011627&hide=css,html,php)](https://github.com/kushal-10/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kushal-10&theme=nightowl&)](https://git.io/streak-stats)
 
-Some of my academic papers - [arxiv_lang_vis_interaction](https://arxiv.org/abs/2311.07150), [Explainability](https://drive.google.com/file/d/11aXmPxYSlWBDOn9lregowmijHu_POh0d/view?usp=sharing)
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
